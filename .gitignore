@@ -1,0 +1,23 @@
+# Mac
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+
+# Eclipse
+.project
+.buildpath
+.settings
+.classpath
+.externalToolBuilders
+
+# vi
+*~
+*.swp
+
+# VS Code
+.vscode
+
+# Config
+keypad/ext_def.h
