@@ -398,7 +398,7 @@ void keypressed(byte key) {
   }
 }
 
-void print(char* var) {
+void print(unsigned char* var) {
 
   char lastModifier = NULL;
 
@@ -525,3 +525,4 @@ void clearPwBuffer() {
     pwBuffer[i] = 0;
   }
 }
+
